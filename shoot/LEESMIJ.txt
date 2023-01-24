@@ -1,0 +1,33 @@
+Typ in de console om een browser te openen:
+
+python3 -m http.server 3000 &
+(en druk op enter)
+
+Na korte tijd verschijnt een blauw menuutje: kies daar voor "Open Browser".
+
+Nadat je de browser hebt open gemaakt, plak de volgende regel er onder:
+
+/eindGame/
+(en druk op enter)
+
+
+
+Om de game te spelen, klik eerst met de linkermuisknop om op fullscreen te zetten.
+Dit is het beste manier om het spel te spelen.
+
+Druk dan op s om de game te beginnen.
+
+Om te bewegen, gebruik de pijltoetsen.
+→ - toets: beweeg naar rechts.
+← - toets: beweeg naar links.
+↓ - toets: beweeg naar beneden.
+↑ - toets: beweeg naar omhoog.
+
+Druk op de spatie knop om te schieten.
+Druk op de shift-knop om langzamer te gaan bewegen.
+
+Het doel van de game is om de vijand neer te schieten, om naar de volgende level te gaan.
+De vijand schiet kogels, die je moet gaan ontwijken. 
+Elk level, schiet de vijand meer kogels, en wordt het moeilijker om die te gaan ontwijken.
+Er zijn in totaal 3 levels.
+
