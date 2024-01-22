@@ -1,0 +1,14 @@
+html,body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow: hidden;
+}
+
+.container {
+    margin-left: 10%;
+    /*margin-right: 25%;*/
+    margin-top: 20px;
+}
